@@ -1,0 +1,13 @@
+.cart-item .item-title {
+  text-transform: capitalize;
+}
+
+.toppings-list {
+  list-style-type: none;
+}
+
+.item-title,
+.item-price,
+.toppings-list {
+  margin-bottom: 0.5rem;
+}

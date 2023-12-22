@@ -1,0 +1,11 @@
+.card-title {
+  text-transform: capitalize;
+}
+
+.card-text {
+  font-size: 0.75rem;
+}
+
+.select-pizza-btn {
+  width: 100%;
+}
